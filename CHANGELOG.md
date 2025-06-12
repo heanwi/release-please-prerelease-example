@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.11.0-rc.1](https://github.com/heanwi/release-please-prerelease-example/compare/v1.11.0-rc...v1.11.0-rc.1) (2025-06-12)
+
+
+### Bug Fixes
+
+* old commit coming after an rc is made yooo ([eeb71fd](https://github.com/heanwi/release-please-prerelease-example/commit/eeb71fd4713afee819732aab22430f3435edf7ed))
+
 ## [1.11.0-rc](https://github.com/heanwi/release-please-prerelease-example/compare/v1.10.2...v1.11.0-rc) (2025-06-12)
 
 
