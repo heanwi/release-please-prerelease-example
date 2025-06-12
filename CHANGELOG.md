@@ -1,5 +1,23 @@
 # Changelog
 
+## [1.11.1-rc](https://github.com/heanwi/release-please-prerelease-example/compare/v1.11.0...v1.11.1-rc) (2025-06-12)
+
+
+### Bug Fixes
+
+* some work here ([1b03edd](https://github.com/heanwi/release-please-prerelease-example/commit/1b03eddd5248427c2946d203dac2d446b7274876))
+
+
+### Miscellaneous Chores
+
+* more work ([f52c79d](https://github.com/heanwi/release-please-prerelease-example/commit/f52c79d27354904ac23f837038b3ffd94adc9d03))
+* oh no bug ([c2c6b07](https://github.com/heanwi/release-please-prerelease-example/commit/c2c6b07c8d4a31e24d08551dd753b3a4eb658e2a))
+
+
+### Docs
+
+* some docs ([2e10a8f](https://github.com/heanwi/release-please-prerelease-example/commit/2e10a8fe21b0515efa2e3c4902944f6eeab14fcf))
+
 ## [1.11.0](https://github.com/heanwi/release-please-prerelease-example/compare/v1.10.2...v1.11.0) (2025-06-12)
 
 
